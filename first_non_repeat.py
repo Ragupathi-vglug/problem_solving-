@@ -1,3 +1,5 @@
+def count(value):
+    pass
 s=input("Enter the string :")
 # s="aabbc"
 result=[]
@@ -7,4 +9,4 @@ for i in s:
 if len(result)==0:
     print(None)
 else:
-    print(result[0])
+    print("The first non repeated value is :",result[0])
