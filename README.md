@@ -58,7 +58,7 @@ problem_solving/
 
 ---
 
-##🚀 How to Run
+## 🚀 How to Run
 
 Clone the repository:
 
@@ -74,14 +74,14 @@ python filename.py
 
 ---
 
-##✍️ My Practice Routine
+## ✍️ My Practice Routine
 Solve problems daily 🗓️
 Focus on understanding logic 🧠
 Try multiple approaches 🔁
 Improve code efficiency ⚡
 
 ---
-##💡 Motivation
+## 💡 Motivation
 
 "Practice makes you perfect."
 
