@@ -87,6 +87,4 @@ Improve code efficiency ⚡
 
 Keep solving problems and never give up 💪
 ---
-├── trees/
-├── graphs/
-└── misc/
+
