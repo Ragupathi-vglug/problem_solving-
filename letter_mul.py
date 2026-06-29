@@ -5,6 +5,3 @@ for i in range(len(s)):
     if s[i].isdigit():
         result.append(s[i-1]*int(s[i]))
 print(str(result))
-
-
-

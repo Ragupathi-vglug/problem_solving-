@@ -6,5 +6,3 @@ def fib(x):
 n=int(input("Entwr the number :"))
 for i in range(n):
     print(fib(i))
-
-
