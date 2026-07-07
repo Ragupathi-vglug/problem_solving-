@@ -14,7 +14,6 @@ while True:
         else:
             started = False
         print("Car has stopped")
-
     elif command == "help":
         for item in ['Start - To Start the car','Stop - To Stop the car', 'Quit - to Quit']:
             print(item)
