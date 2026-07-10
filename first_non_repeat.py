@@ -1,5 +1,3 @@
-def count(value):
-    pass
 s=input("Enter the string :")
 # s="aabbc"
 result=[]
