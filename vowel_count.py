@@ -1,4 +1,4 @@
-s=input("Enter the word :")
+s=input("Enter the word to count vowel:")
 result=0
 vowels=["a","e","i","o","u"]
 for i in s.lower():
